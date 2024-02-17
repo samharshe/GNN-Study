@@ -1,0 +1,1 @@
+a home folder for all my experiments with and studying of GNNs, apart from the folder for GL that I am restricting to stuff contributing to my final product.
